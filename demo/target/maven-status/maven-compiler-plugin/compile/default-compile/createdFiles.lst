@@ -1,1 +1,7 @@
+com\example\library\Main.class
+com\example\library\model\Book.class
 com\example\App.class
+com\example\library\model\Reader.class
+com\example\library\service\LibraryService.class
+com\example\library\model\Library.class
+com\example\library\io\LibraryFileManager.class
